@@ -16,6 +16,10 @@ Why should I use this?
 
 Because you're too lazy to count, and you don't have any friends to spot you.
 
+Do you have any updates planned?
+
+The next version of this app will have a timeout feature where, if your face has not been detected within a certain amount of time, it will assume you are resting and will play .wav files of me calling you various abusive names.
+
 I'm concerned about privacy. What measures do you take to ensure my data is secure and my webcam isn't being hijacked?
 
 lol
