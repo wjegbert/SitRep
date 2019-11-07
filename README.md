@@ -20,11 +20,11 @@ I'm concerned about privacy. What measures do you take to ensure my data is secu
 
 lol
 
-![logo](Logos/SITREPlogo4.png)
+![logo](Logos/Sitreplogo4.png)
 
 ## Installation
 *On Windows*: Clone the repo and run the .py file. Make sure you have the latest version of OpenCV for Python 3 installed. If you don't, good luck with that.
 
 *On Mac and Linux*: lmao no.
 
-![logo](Logos/SITREPlogo3.png)
+![logo](Logos/Sitreplogo3.png)
