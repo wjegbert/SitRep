@@ -9,12 +9,15 @@ This revolution in personal fitness leverages a cutting-edge computer vision lib
 
 ## FAQs
 Why does it take a few seconds for the program to start doing stuff?
+
 There's a short convenience buffer when you start the program that allows you to get in position and prepare yourself mentally for the unnatural contortions your body is about to endure.
 
 Why should I use this? 
+
 Because you're too lazy to count, and you don't have any friends to spot you.
 
 I'm concerned about privacy. What measures do you take to ensure my data is secure and my webcam isn't being hijacked?
+
 lol
 
 ## Installation
