@@ -19,4 +19,5 @@ lol
 
 ## Installation
 *On Windows*: Clone the repo and run the .py file. Make sure you have the latest version of OpenCV for Python 3 installed. If you don't, good luck with that.
+
 *On Mac and Linux*: lmao no.
