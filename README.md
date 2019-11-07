@@ -3,7 +3,7 @@ If you're like me, out of shape and stupid, then the agony of working out is onl
 
 ![logo](Logos/SITREPlogo.png)
 
-This revolution in personal fitness leverages a cutting-edge computer vision library (OpenCV) and servicable Python code to track your face as you're doing sit ups. Just put your laptop or webcam at your feet as you exercise, and the app will detect the number of times your face becomes visible, ie when your face is above your knees when doing a sit up, it will count that as a repetition. A system bell will sound every time your face is detected, so you can be sure it is keeping the right count. I know what you're thinking: that seems like it will get really annoying really quick. But something you might not have considered: shut up.
+This revolution in personal fitness leverages a cutting-edge computer vision library (OpenCV) and servicable Python code to track your face as you're doing sit ups. Just put your laptop or webcam at your feet as you exercise, and the app will detect the number of times your face becomes visible, ie when your face is above your knees when doing a sit up, it will count that as a repetition. A system bell will sound every time your face is detected, so you can be sure it is keeping the right count. I know what you're thinking: that seems like it will get really annoying really fast. But something you might not have considered: shut up.
 
 ![logo](Logos/SITREPlogo2.png)
 
