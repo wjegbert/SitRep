@@ -28,7 +28,7 @@ lol
 ![logo](Logos/Sitreplogo4.png)
 
 ## Installation
-*On Windows*: Clone the repo and run the .py file. Make sure you have the latest version of OpenCV for Python 3 installed. If you don't, good luck with that. Also change the HAARPATH value to point to OpenCV's face detection Haar cascade XML files.
+*On Windows*: Clone the repo and run the .py file. Make sure you have the latest version of OpenCV for Python 3 installed. If you don't, good luck with that. Also change the HAARPATH value to point to `data/haarcascades/haarcascade_frontalface_default.xml` in the Python module for OpenCV.
 
 
 *On Mac and Linux*: lmao no.
