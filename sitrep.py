@@ -11,7 +11,7 @@ import winsound
 goal = 25
 n = 0
 cv2.VideoCapture(0).release
-HAARPATH = "Path to face detection Haar cascades"
+HAARPATH = "haarcascades/haarcascade_frontalface_default.xml"
 cap=cv2.VideoCapture(0)
 face_detect=cv2.CascadeClassifier(HAARPATH)
 
