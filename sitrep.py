@@ -17,12 +17,15 @@ face_detect=cv2.CascadeClassifier(HAARPATH)
 
 faces =[]
 prevface = []
+
+time.sleep(15) #Gives user 15 seconds to get into position
+
 while(True):
     # Capture frame-by-frame
     ret, frame = cap.read()
     if n>=goal:
         break
-    # Our operations on the frame come here
+    # Our operations on the frame go here
     if ret is True:
         prevface = faces
         gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
