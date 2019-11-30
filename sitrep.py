@@ -7,6 +7,7 @@ Created on Mon Nov  4 19:56:24 2019
 
 import cv2
 import winsound
+import time
 
 goal = 25
 n = 0
